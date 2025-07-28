@@ -65,7 +65,7 @@ Wiring Diagram  <br/>
 <br />
 <br />
 <h2> 🎬 Demo Video </h2>
-
+https://github.com/user-attachments/assets/df0e19fb-e1cf-480d-8ae3-838372b7f9f7
   <br/>
 
 
